@@ -1,6 +1,6 @@
 {
   "name": "StarSwap",
-  "logoURI": "http://188.131.253.73/icon-volt-tokenswap-circle.svg",
+  "logoURI": "https://www.sensenziyuan.com/icon-volt-tokenswap-circle.svg",
   "keywords": [
     "swap",
     "defi"
@@ -13,7 +13,7 @@
       "name": "Wrapped FSC",
       "symbol": "WFSC",
       "decimals": 18,
-      "logoURI": "http://188.131.253.73/fsc.svg"
+      "logoURI": "https://www.sensenziyuan.com/fsc.svg"
     },
     {
       "chainId": 46032,
