@@ -1,0 +1,40 @@
+{
+  "name": "StarSwap",
+  "logoURI": "http://188.131.253.73/icon-volt-tokenswap-circle.svg",
+  "keywords": [
+    "swap",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 46032,
+      "address": "0x304877Abd76ea0Bc3019D47f42A0066aA9e8915D",
+      "name": "Wrapped FSC",
+      "symbol": "WFSC",
+      "decimals": 18,
+      "logoURI": "http://188.131.253.73/fsc.svg"
+    },
+    {
+      "chainId": 46032,
+      "address": "0xFB5d1e639ec9bF72D39BcAe910119D409e1e7697",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 46032,
+      "address": "0x8c4092092578476AA2Fc592d93542bF583930092",
+      "name": "Basic Attention Token",
+      "symbol": "BAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
