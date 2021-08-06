@@ -8,24 +8,24 @@
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 46032,
-      "address": "0x304877Abd76ea0Bc3019D47f42A0066aA9e8915D",
+      "chainId": 36109,
+      "address": "0xE1958165B66F01900dE7A0Eda399a12C9bd59DD6",
       "name": "Wrapped FSC",
       "symbol": "WFSC",
       "decimals": 18,
       "logoURI": "https://www.sensenziyuan.com/fsc.svg"
     },
     {
-      "chainId": 46032,
-      "address": "0xFB5d1e639ec9bF72D39BcAe910119D409e1e7697",
+      "chainId": 36109,
+      "address": "0x2143233B0Eb5b3Eb45356f0720763D30a9014D3a",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     },
     {
-      "chainId": 46032,
-      "address": "0x8c4092092578476AA2Fc592d93542bF583930092",
+      "chainId": 36109,
+      "address": "0x08A7128EDc3AcF66ac84D43c75dE859De366a447",
       "name": "Basic Attention Token",
       "symbol": "BAT",
       "decimals": 18,
