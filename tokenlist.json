@@ -1,6 +1,6 @@
 {
-  "name": "StarSwap",
-  "logoURI": "https://www.sensenziyuan.com/icon-volt-tokenswap-circle.svg",
+  "name": "ACSwap",
+  "logoURI": "https://file.acac.world/icon-volt-tokenswap-circle.svg",
   "keywords": [
     "swap",
     "defi"
@@ -8,24 +8,24 @@
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 36109,
-      "address": "0xE1958165B66F01900dE7A0Eda399a12C9bd59DD6",
-      "name": "Wrapped FSC",
-      "symbol": "WFSC",
+      "chainId": 47398,
+      "address": "0x9629Afb93A5cd0B33dA838B8F21EB43cBB7bDa39",
+      "name": "Wrapped AC",
+      "symbol": "WAC",
       "decimals": 18,
-      "logoURI": "https://www.sensenziyuan.com/fsc.svg"
+      "logoURI": "https://add.acac.world/connectors/icn-asd.svg"
     },
     {
-      "chainId": 36109,
-      "address": "0x2143233B0Eb5b3Eb45356f0720763D30a9014D3a",
+      "chainId": 47398,
+      "address": "0x10339E5A5Bc44d43f2C01008eA094C9B8aA2DfCb",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     },
     {
-      "chainId": 36109,
-      "address": "0x08A7128EDc3AcF66ac84D43c75dE859De366a447",
+      "chainId": 47398,
+      "address": "0x653FF9657Bdb4C531bD9660E3cE9059FB566bB40",
       "name": "Basic Attention Token",
       "symbol": "BAT",
       "decimals": 18,
